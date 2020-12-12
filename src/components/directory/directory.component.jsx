@@ -7,7 +7,6 @@ class Directory extends React.Component {
     constructor () {
         super();
         this.state = {sections : Sections};
-        console.log(this.state);
     };
 
     render () {
